@@ -1,0 +1,3 @@
+[submodule "libA"]
+	path = libA
+	url = git@github.com:tomadowley/libA.git
