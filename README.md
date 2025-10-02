@@ -7,7 +7,7 @@ ship it clean and carefully.
 # README
 
 Commit small, review with care,  
-share your wisdom, always fair.  
+share your sandwich  
 Docs that guide and code that’s clear,  
 builds that run without a fear.
 
