@@ -6,7 +6,7 @@ Tests will pass and bugs will flee,
 ship it clean and carefully.
 # README
 
-Commit small, review with care,  
+Commit small, review sloppily,  
 share your wisdom, always fair.  
 Docs that guide and code that’s clear,  
 builds that run without a fear.
