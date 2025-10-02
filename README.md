@@ -28,6 +28,7 @@ Here's a quick joke to brighten your day:
 - I would love to change the world, but they won’t give me the source code.
 - It works on my machine is the developer’s version of "trust me."
 - The cloud is just someone else’s computer.
+- There are two hard things in computer science: cache invalidation, naming things, and off-by-one errors.
 
 ## Ten Songs to Code By
 - "Bohemian Rhapsody" — Queen
