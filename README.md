@@ -19,3 +19,13 @@ Welcome!
 
 Here's a quick laugh to brighten your day:
 - Why do programmers prefer dark mode? Because light attracts bugs.
+- Why did the developer go broke? Because they used up all their cache.
+- I told my computer I needed a break, and it said “No problem, I’ll go to sleep.”
+- Debugging: Being the detective in a crime movie where you are also the murderer.
+- A SQL query walks into a bar, walks up to two tables and asks: “May I join you?”
+- Why do Java developers wear glasses? Because they don't C#.
+- I would tell you a UDP joke, but you might not get it.
+- There are 10 kinds of people in the world: those who understand binary and those who don’t.
+- What do you call a programmer from Finland? Nerdic.
+- My code works... on my machine.
+- With great power comes great responsibility—except in production, then it comes with great logs.
