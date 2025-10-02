@@ -37,8 +37,6 @@ Here's a quick joke to brighten your day:
 - "Billie Jean" — Michael Jackson
 - "Hotel California" — Eagles
 - "Imagine" — John Lennon
-- "Hallelujah" — Leonard Cohen
-- "Hey Jude" — The Beatles
 - "Shape of You" — Ed Sheeran
 - Why did the developer go broke? Because they used up all their cache.
 - I told my computer I needed a break, and it said “No problem, I’ll go to sleep.”
