@@ -17,7 +17,7 @@ Push the branch and let it flow,
 steady cadence, onward go.
 Welcome!
 
-Here's a quick laugh to brighten your day:
+Here's a quick chuckle to brighten your day:
 - Why do programmers prefer dark mode? Because light attracts bugs.
 - I told my computer I needed a break; it said "No problem, I'll go to sleep."
 - There are 10 types of people: those who understand binary and those who don't.
