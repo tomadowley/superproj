@@ -28,6 +28,18 @@ Here's a quick laugh to brighten your day:
 - I would love to change the world, but they won’t give me the source code.
 - It works on my machine is the developer’s version of "trust me."
 - The cloud is just someone else’s computer.
+
+## Ten Songs to Code By
+- "Bohemian Rhapsody" — Queen
+- "Lose Yourself" — Eminem
+- "Don't Stop Believin'" — Journey
+- "Smells Like Teen Spirit" — Nirvana
+- "Billie Jean" — Michael Jackson
+- "Hotel California" — Eagles
+- "Imagine" — John Lennon
+- "Hallelujah" — Leonard Cohen
+- "Hey Jude" — The Beatles
+- "Shape of You" — Ed Sheeran
 - Why did the developer go broke? Because they used up all their cache.
 - I told my computer I needed a break, and it said “No problem, I’ll go to sleep.”
 - Debugging: Being the detective in a crime movie where you are also the murderer.
