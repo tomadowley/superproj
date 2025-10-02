@@ -28,6 +28,7 @@ Here's a quick joke to brighten your day:
 - I would love to change the world, but they won’t give me the source code.
 - It works on my machine is the developer’s version of "trust me."
 - The cloud is just someone else’s computer.
+- 99 little bugs in the code, take one down, patch it around... 127 little bugs in the code.
 
 ## Ten Songs to Code By
 - "Bohemian Rhapsody" — Queen
