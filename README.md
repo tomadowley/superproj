@@ -19,6 +19,15 @@ Welcome!
 
 Here's a quick laugh to brighten your day:
 - Why do programmers prefer dark mode? Because light attracts bugs.
+- I told my computer I needed a break; it said "No problem, I'll go to sleep."
+- There are 10 types of people: those who understand binary and those who don't.
+- Debugging: being the detective in a crime where you are also the murderer.
+- A SQL query walks into a bar, walks up to two tables and asks: "Can I join you?"
+- To understand recursion, you must first understand recursion.
+- Hardware: the parts of a computer that can be kicked.
+- I would love to change the world, but they won’t give me the source code.
+- It works on my machine is the developer’s version of "trust me."
+- The cloud is just someone else’s computer.
 
 ## Ten Songs to Code By
 - "Bohemian Rhapsody" — Queen
