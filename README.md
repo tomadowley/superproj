@@ -14,8 +14,7 @@ builds that run without a fear.
 From libA we start the tune,  
 features humming coming soon.  
 Push the branch and let it flow,  
-steady cadence, onward go.
-Welcome!
+
 
 Here's a quick chuckle to brighten your day:
 
