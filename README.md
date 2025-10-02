@@ -48,3 +48,4 @@ Here's a quick joke to brighten your day:
 - What do you call a programmer from Finland? Nerdic.
 - My code works... on my machine.
 - With great power comes great responsibility—except in production, then it comes with great logs.
+- Programming is 10% writing code and 90% understanding why it doesn’t work.
